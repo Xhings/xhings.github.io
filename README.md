@@ -1,5 +1,3 @@
 # xhings.github.io
 
-<a>
-  My Resume
-</a>
+you can [download resume]() here.
